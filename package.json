@@ -1,0 +1,13 @@
+
+{
+  "name": "node-s5",
+  "version": "1.0.0",
+  "description": "Authenticated S5 Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
