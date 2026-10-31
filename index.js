@@ -11,8 +11,8 @@ const LISTEN_PORT = 20267;
 const SOCKS_USER = 'admw';
 const SOCKS_PASS = 'admw';
 
-const UPSTREAM_HOST = '149.36.51.157';
-const UPSTREAM_PORT = 9443;
+const UPSTREAM_HOST = '45.56.228.8';
+const UPSTREAM_PORT = 443;
 
 //dial
 const TLS_REJECT_UNAUTHORIZED = false;
