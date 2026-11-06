@@ -8,10 +8,10 @@ const tls = require('tls');
 const LISTEN_HOST = '0.0.0.0';
 const LISTEN_PORT = 20267;
 
-const SOCKS_USER = 'admw';
-const SOCKS_PASS = 'admw';
+const SOCKS_USER = 'fuc';
+const SOCKS_PASS = 'luv';
 
-const UPSTREAM_HOST = '45.56.228.8';
+const UPSTREAM_HOST = '62.90.77.30';
 const UPSTREAM_PORT = 443;
 
 //dial
